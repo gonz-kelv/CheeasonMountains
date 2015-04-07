@@ -1,7 +1,5 @@
 "use strict"
 
-//var whatColor = document.getElementById('dynamicPeak').style.background="white";
-
 var sceneColor = 0xDDEFFF;
 var rotation
 var Width = window.innerWidth;
